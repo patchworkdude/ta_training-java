@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/helloci/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/average/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/battleship8x8/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/beware-of-dogs/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/catch-em-all/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/compass/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/cycle-swap/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/decrementing-carousel/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/decrementing-carousel-with-limit/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/electronic-watch/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/average/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/battleship8x8/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/beware-of-dogs/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/catch-em-all/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/compass/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/cycle-swap/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/decrementing-carousel/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/decrementing-carousel-with-limit/pom.xml" />
+        <option value="$PROJECT_DIR$/com.epam.training.student_Egor_Golovin/Java Basics/electronic-watch/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
