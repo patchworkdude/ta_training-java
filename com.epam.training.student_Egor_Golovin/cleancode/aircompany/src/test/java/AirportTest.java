@@ -50,13 +50,6 @@ public class AirportTest {
     public void testSortByMaxLoadCapacity() {
         List<? extends Plane> planesSortedByMaxLoadCapacity = airport.sortByMaxLoadCapacity().getPlanes();
 
-        Plane previous = planesSortedByMaxLoadCapacity.get(0);
-
-        for (Plane plane : planesSortedByMaxLoadCapacity) {
-            Assert.assertTrue(previous.getMaxLoadCapacity().compareTo(plane.getMaxLoadCapacity()) <= 0);
-            previous = plane;
-        }
-
         for (int i = 0; i < planesSortedByMaxLoadCapacity.size() - 1; i++) {
             Plane currentPlane = planesSortedByMaxLoadCapacity.get(i);
             Plane nextPlane = planesSortedByMaxLoadCapacity.get(i + 1);
